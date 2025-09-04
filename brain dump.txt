@@ -1,0 +1,57 @@
+Smart Financial Coach:
+
+why: I am currently a new grad going through all of financial learnings 
+
+little help from parent who never grasped these concepts forces younger generation to remain left behind or start research 
+
+main source of information:
+
+- google 
+- TIKOK/IG Reels
+
+people are trusting their social media for finanical advice: 
+"A 2023 Ipsos survey showed that 50% of people globally trust news from social media, which is lower than trust in TV, radio, or print media"
+
+
+app built around teaching anyone who is willing to learn 
+
+features:
+- follow their favorite content creator's financal plan, credit card recomendations
+- cater their "personal tutor" FiFi to give advice based on overall financial advice 
+    - can had that AI tutor FIFI shift their recomdations based on the personal goals and content creator they trust 
+- page will act as advice center for their finances
+- create ease of access to their investment accounts, credit card accounts
+- small advices "pay off your credit card" goal setting
+- weekly checkins based on streaks to make sure their are actually looking and tracking their finances 
+- notifcatiosn are based on Duolingo character, more personal notifcations:
+    - the app notices that user spends money on friday, depending on settings, user can have notifactions set up that it notifies the user "is that uber eats really worth it right now" 
+    - lets work towards levels of goals, 
+    - each time user builds towards goal FIFI also gets a small skin or clothing or accessory
+        - recently saw hank green's app for mindfulness that has its bean character knit hats for itself, but cries when using the phone 
+        - want to build toward that level of attachemnt for character
+- showcase their goals and work to get finances in set 
+
+- Home page:
+    - current budget 
+    - currentl spending
+    - forecast to spend 
+    - emergency fund 
+- Investing page
+    - once emergency fund is built 
+    - show 80/30/20 rule 
+    - only showcase etfs
+    - for each acronym have FIFI explain each part 
+    - use persona based examples until the it has built enough data to track spending and risk analysis 
+- Goal page:
+    - short to long term goals
+    - create high and low priorty goals
+    = connect them to dashboard 
+- Need Help Button: present with FIFI 
+    - anytime a concept dosnt makes sense FIFI shoudl alwyas ask to break it down 
+    - advise on credit cards, types of investing, aggressive or not, or event help the user connect to family 
+
+
+NOTE: 
+in presentation, 
+= hope to expand to splitwise functiosn helps deal with spliting bills, vacaction budeting specifically go deeper vertically on each aisel, and then go horizontally by have family integration and kid budgets to help the whole family learn 
+-   older generation, should alwyas have a bigger text and maek it more accessible 
