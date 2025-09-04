@@ -1,3 +1,7 @@
+Demo Youtube link: https://youtu.be/kidPLvSlhg4 
+
+_-----------------------
+
 # FiFi: Your Smart Financial Coach 🚀
 
 FiFi is an AI-powered smart financial coach designed to transform raw transaction data into personalized, actionable insights. Built for young adults, students, and freelancers who need clear visibility into their spending and personalized financial guidance.
