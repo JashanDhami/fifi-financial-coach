@@ -188,4 +188,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **FiFi: Turning Data into Dollars, One Smart Insight at a Time** 💰✨
 
-For questions or support, reach out to our team or check out the [FiFi Assistant](https://fifi-app.com/help) for instant help! 
+For questions or support, reach out to our team or check out the [FiFi Assistant](https://fifi-app.com/help) for instant help! # fifi-financial-coach
